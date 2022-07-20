@@ -1,0 +1,39 @@
+body {
+    margin: auto;
+    background-color: rgba(236, 247, 246, 0.577);
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(#647ce6, #aa91e5);  
+    height: 100px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+}
+
+.form-group {
+   margin-left: 50px;
+   margin-top: 80px;
+    width: 500px;
+}
+
+label {
+    font-size: 20px;
+}
+
+.btn-primary {
+    margin-left: 50px;
+}
