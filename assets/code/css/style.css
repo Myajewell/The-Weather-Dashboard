@@ -1,39 +1,20 @@
 body {
-    margin: auto;
-    background-color: rgba(236, 247, 246, 0.577);
+    background-color: rgb(223, 241, 242);
 }
 
-.header {
-    display: flex;
-    justify-content: center;
-    background: linear-gradient(#647ce6, #aa91e5);  
-    height: 100px;
+.navbar-brand {
+    font-size: 36px;
 }
 
-h1 {
-    text-align: center;
-    font-size: 50px;
+.search-header {
+    font-size: 24px;
+    font-weight: bold;
 }
-h2{
-    text-align: center;
+
+.city-name {
     font-size: 30px;
 }
 
-p {
-    display: flex;
-    justify-content: center;
-}
-
-.form-group {
-   margin-left: 50px;
-   margin-top: 80px;
-    width: 500px;
-}
-
-label {
-    font-size: 20px;
-}
-
-.btn-primary {
-    margin-left: 50px;
+.forecast-date {
+    font-size: 18px;
 }
