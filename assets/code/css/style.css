@@ -1,0 +1,29 @@
+header {
+    background-color: blue;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+form {
+    display: flex;
+    justify-content: flex-start;
+    margin: 50px;
+}
+
+.content {
+   margin: 100%;
+   padding: 50px;
+   border-color: black;
+}
+
+h1 {
+    text-align: center;
+}
+.weather-container {
+    display: flex;
+    justify-content: center;
+    border: solid;
+    padding: 100px;
+   
+}

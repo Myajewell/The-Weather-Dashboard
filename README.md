@@ -7,4 +7,4 @@ Open Weather API
 Bootsrap
 
 Screenshot:
-![Screenshot](Screenshot%2012.png).
+![Screenshot](Screenshotweb.png).
